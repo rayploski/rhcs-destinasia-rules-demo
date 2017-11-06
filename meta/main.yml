@@ -15,10 +15,11 @@ galaxy_info:
     versions:
     - 1.6
     - 1.7
-
+#- Categories are really tags within Galaxy
   categories:
   - middleware
-  - system
+  - drools
+  - BRMS
   - web
 dependencies: []
 allow_duplicates: yes
