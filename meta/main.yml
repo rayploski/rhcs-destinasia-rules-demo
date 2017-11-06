@@ -3,12 +3,19 @@ galaxy_info:
   author: Ray Ploski
   description: Destinasia Travel Rules Demo
   company: Red Hat
+
+  video_links:
+  - url: https://youtu.be/utJ1k0_WUe0?t=6s
+    title: Happy Birthday!
+
   license: AFL v3.0
   min_ansible_version: 1.8
   platforms:
-  - name: JDK
+  - name: Java
     versions:
-    - all
+    - 1.6
+    - 1.7
+
   categories:
   - middleware
   - system
